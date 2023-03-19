@@ -8,4 +8,4 @@ may need to evolve, be transparent, and responsibility of all of these need to b
 one person to his/her successor. This repo documents operations collects suggestions for logos
 and other marketing material, website content, features etc.
 
-1. [The Website Design]( )
+1. [The Website Design](https://github.com/saiftynet/TPRF-Designs/blob/main/The%20Website.md)
