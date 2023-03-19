@@ -8,7 +8,15 @@ This document outlines the desired attrributes of the website.
 4. It specfies how the site evolves, how members should control this evolution.
 5. It details features that need to be added or may be desirable to help the operations of the website
 
-### 1. The purpose
+### 1. The Purpose
+
+A. Declare Role of TPRF
+B. Link to Resources
+C. Communicate wih TPRF
+D. Attract Funding
+E. Support/Grants
+F. View News and Announcements
+G. Consolidate News from Other Sites
 
 
 ### 2. Design Specifications
