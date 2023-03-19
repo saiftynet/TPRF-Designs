@@ -10,8 +10,8 @@ This document outlines the desired attrributes of the website.
 
 ### 1. The Purpose
 
-A. Declare Role of TPRF
-B. Link to Resources
+A) Declare Role of TPRF
+B} Link to Resources
 C. Communicate wih TPRF
 D. Attract Funding
 E. Support/Grants
