@@ -9,3 +9,4 @@ one person to his/her successor. This repo documents operations collects suggest
 and other marketing material, website content, features etc.
 
 1. [The Website Design](https://github.com/saiftynet/TPRF-Designs/blob/main/The%20Website.md)
+2. [The Images and Branding](https://github.com/saiftynet/TPRF-Designs/blob/main/Branding.md)
